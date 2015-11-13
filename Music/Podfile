@@ -1,0 +1,5 @@
+platform :ios,'8.0'
+pod "AFNetworking","~>2.5.4"
+pod "SDWebImage"
+pod 'AFSoundManager', '~> 1.2.5'
+pod 'MJRefresh', '~> 3.0.1'
